@@ -19,7 +19,6 @@
     "react-dom": "18.2.0",
     "react-facebook-pixel": "^1.0.4",
     "stripe": "^11.16.0",
-    "styled-components": "^5.3.9",
-    "xendit-node": "^1.21.11"
+    "styled-components": "^5.3.9"
   }
 }
