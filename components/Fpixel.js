@@ -12,7 +12,7 @@ const pageview = () => {
 	window.fbq('track', 'PageView');
 };
 
-const FacebookPixel = ({ children }) => {
+const Fpixel = ({ children }) => {
 	const router = useRouter();
 
 	useEffect(() => {
